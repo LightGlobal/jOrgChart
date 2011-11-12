@@ -3,7 +3,7 @@
 
 ##Overview
 
-Follow me [@wesnolte](http://twitter.com/wesnolte)
+Follow me [@tquila_wes](http://twitter.com/wesnolte)
 
 jQuery OrgChart is a plugin that allows you to render structures with nested elements in a easy-to-read tree structure. To build the tree all you need is to make a single line call to the plugin and supply the HTML element Id for a nested unordered list element that is representative of the data you'd like to display. Features include:
 
@@ -86,7 +86,7 @@ You can view a demo of this [here](http://dl.dropbox.com/u/4151695/html/jOrgChar
 
 ##Sourcecode
 
-Source code with an example is available [here](https://github.com/wesnolte/jOrgChart/tree/master/example "Example & Source").
+Source code with an example is available [here](https://github.com/Tquila/jOrgChart/tree/master/example "Example & Source").
 
 -----
 
